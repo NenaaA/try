@@ -1,1 +1,1 @@
-![graph image](graph)
+![graph image](graph.png)
